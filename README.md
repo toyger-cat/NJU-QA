@@ -1,1 +1,1 @@
-# NJU-Q-A
+# NJU-QA
