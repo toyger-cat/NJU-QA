@@ -3,7 +3,7 @@
 ## Task
 
 - [ ] overload text_splitter
-- [ ] reoganize online imformation
+- [ ] document_loaders
 
 ## tech
 
