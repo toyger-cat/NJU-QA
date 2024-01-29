@@ -5,6 +5,7 @@
 - [ ] overload text_splitter
 - [ ] define document_loaders
 - [ ] specify embedding-models (consider retrain or customize keywords)
+- [ ] UI based on streamlit
 
 ## tech
 
@@ -13,6 +14,7 @@
   - [ ] database: pgvector
   - [ ] Embedding Models: piccolo-large-zh
     - [ ] also consider: Custom keyword adjustment Embedding model
+  - [ ] streamlit UI
 
 ## data
 
