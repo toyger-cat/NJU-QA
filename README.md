@@ -3,7 +3,8 @@
 ## Task
 
 - [ ] overload text_splitter
-- [ ] document_loaders
+- [ ] define document_loaders
+- [ ] specify embedding-models (consider retrain or customize keywords)
 
 ## tech
 
