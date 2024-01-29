@@ -9,7 +9,7 @@
 ## tech
 
 - [ ] Langchain
-  - [ ] model: Qwen-14B-Chat
+  - [ ] model: Qwen-14B-Chat(prefer use it locally)
   - [ ] database: pgvector
   - [ ] Embedding Models: piccolo-large-zh
     - [ ] also consider: Custom keyword adjustment Embedding model
