@@ -1,5 +1,10 @@
 # NJU-QA
 
+## Task
+
+- [ ] overload text_splitter
+- [ ] reoganize online imformation
+
 ## tech
 
 - [ ] Langchain
