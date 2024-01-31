@@ -4,6 +4,8 @@
 
 受项目[https://github.com/chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat)的启发，构建轻量化LLM+私域数据问答。
 
+email me: toyger-cat@outlook.com
+
 ## Task
 
 - [ ] overload text_splitter
