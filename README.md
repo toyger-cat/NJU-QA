@@ -1,14 +1,12 @@
 # NJU-QA
 
-> 加载文件 -> 读取文本 -> 文本分割 -> 文本向量化 -> 问句向量化 -> 在文本向量中匹配出与问句向量最相似的 top k个 -> 匹配出的文本作为上下文和问题一起添加到 prompt中 -> 提交给 LLM生成回答
-
 ## Reference
 
 <https://github.com/chatchat-space/Langchain-Chatchat>
 
-<https://datawhalechina.github.io/l>
+<https://github.com/datawhalechina/llm-universe>
 
-email me: toyger-cat@outlook.com
+email me: <toyger-cat@outlook.com>
 
 ## Outline
 
