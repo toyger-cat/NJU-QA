@@ -1,3 +1,0 @@
-- [ ] pdfloader.py
-- [ ] docloader.py
-- [ ] imgloader.py

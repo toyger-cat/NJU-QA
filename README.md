@@ -23,7 +23,7 @@ email me: toyger-cat@outlook.com
         -zhipuai_llm.py 自定义智谱AI LLM
         -call_llm.py 将各个 LLM 的原生接口封装在一起
         -test.ipynb 使用示例
-    -embedding embedding调用封装
+    -embeddings embedding调用封装
         -zhipuai_embedding.py 自定义智谱AI embedding
         -call_embedding.py 调用 embedding 模型
     -data 源数据路径
