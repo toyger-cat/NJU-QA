@@ -13,7 +13,6 @@ from http import HTTPStatus
 import dashscope
 
 _ = load_dotenv(find_dotenv())
-DASHSCOPE_API_KEY = os.environ["DASHSCOPE_API_KEY"]
 
 def call_with_messages():
     messages = [{'role': 'system', 'content': 'You are a helpful assistant.'},
@@ -33,5 +32,5 @@ def call_with_messages():
         ))
 
 
-# if __name__ == '__main__':
-#     call_with_messages()
+if __name__ == '__main__':
+    call_with_messages()
